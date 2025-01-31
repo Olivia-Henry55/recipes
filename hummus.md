@@ -1,7 +1,7 @@
-#Hummus
-##Ingredients
-*Chick Peas
-*Lemon
-*Olive Oil
-*Salt
+# Hummus
+## Ingredients
+* Chick Peas
+* Lemon
+* Olive Oil
+* Salt
 
