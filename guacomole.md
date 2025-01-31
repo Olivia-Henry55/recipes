@@ -4,4 +4,4 @@
 * Lemon
 * Salt
 ## Instructions
-*Put one avocado into one bowl
+* Put one avocado into one bowl
